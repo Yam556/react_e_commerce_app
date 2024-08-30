@@ -2,7 +2,7 @@
 
 Designed and deve;loped by Yam Khadka
 
-###Technology Used
+# Technology Used
 
 React
 Vite
